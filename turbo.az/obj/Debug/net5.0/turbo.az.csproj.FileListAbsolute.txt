@@ -1,0 +1,16 @@
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\bin\Debug\net5.0\turbo.az.exe
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\bin\Debug\net5.0\turbo.az.deps.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\bin\Debug\net5.0\turbo.az.runtimeconfig.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\bin\Debug\net5.0\turbo.az.runtimeconfig.dev.json
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\bin\Debug\net5.0\turbo.az.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\bin\Debug\net5.0\ref\turbo.az.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\bin\Debug\net5.0\turbo.az.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\obj\Debug\net5.0\turbo.az.csproj.AssemblyReference.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\obj\Debug\net5.0\turbo.az.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\obj\Debug\net5.0\turbo.az.AssemblyInfoInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\obj\Debug\net5.0\turbo.az.AssemblyInfo.cs
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\obj\Debug\net5.0\turbo.az.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\obj\Debug\net5.0\turbo.az.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\obj\Debug\net5.0\ref\turbo.az.dll
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\obj\Debug\net5.0\turbo.az.pdb
+C:\Users\Thinkpad PC\Desktop\Programing\Homeworks\Homework_cacl_01.12.21\turbo.az\turbo.az\obj\Debug\net5.0\turbo.az.genruntimeconfig.cache
